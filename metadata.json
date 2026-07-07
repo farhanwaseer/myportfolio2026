@@ -1,0 +1,6 @@
+{
+  "name": "MERN Stack Developer Portfolio",
+  "description": "An interactive, fully responsive portfolio website for a MERN Stack web and app developer with projects showcase, blog section, and a contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
